@@ -88,4 +88,4 @@ else:
     main()
 
 
-st.info("Created by Adam Tomkins.")
+st.info("Created by Adam Tomkins. Source Code: https://github.com/AdamRTomkins/StreamlitChatGPT")

@@ -1,9 +1,10 @@
 # StreamlitChatGPT
-A Basic Raw ChatGPT interface in streamlit
+A Basic Raw ChatGPT interface in streamlit.
 
+You can find this hosted on a shared Streamlit at [https://basic-chat-gpt.streamlit.app/](https://basic-chat-gpt.streamlit.app/)
 ## Requirements
 
-This Demo requires an OpenAI API key to use the Chat Completion API.
+This Demo requires an [OpenAI API](https://openai.com/blog/openai-api/) key to use the Chat Completion API.
 
 ## Installation
 
